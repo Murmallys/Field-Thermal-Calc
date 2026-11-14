@@ -1,0 +1,7 @@
+Компонент	Технология
+Язык	Python 3.10+
+UI-фреймворк	PyQt6
+База данных	SQLite
+Математические расчёты	NumPy, Pandas
+Генерация отчётов	ReportLab
+ORM	SQLAlchemy
